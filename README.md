@@ -43,7 +43,7 @@ cd Riyadhya-Banking-Website
 ```
 
 ### 2️⃣ Setup MySQL Database  
-- Create a **MySQL database** named `riyadhya_bank_db`.  
+- Create a **MySQL database** named `bankappdb`.  
 - Update `application.properties` with your database credentials.  
 
 ```properties
